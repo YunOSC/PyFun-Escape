@@ -4,7 +4,7 @@ expr = '''
 def func({0}):
     c = a + b
     return c
-print(func(10, 12) == 22)'''
+print(func(10, 12) == 100)'''
 
 if __name__ == '__main__':
     while True:
